@@ -1,7 +1,5 @@
 <template>
-  <div class="container flex">
-    <button></button>
-  </div>
+  <div class="container mx-auto flex"></div>
 </template>
 
 <script setup lang="ts"></script>
